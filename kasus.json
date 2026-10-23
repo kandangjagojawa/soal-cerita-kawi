@@ -1,0 +1,2244 @@
+[
+  {
+    "id": 1,
+    "judul": "crita 1",
+    "gambar": "crita1.jpg",
+    "cerita": "saben énjang, simbah kakung tansah wungu ing tabuh gangsal. sasampun-ipun sembahyang, panjeneng-an-ipun lajeng ngunjuk téh anget sarta dhahar pisang goréng wonten téras ngajeng. ibu ugi kersa nyawis-aken dhahar-an sanés-ipun supados simbah kakung rumangsa remen nalika mriksa-ni swasana énjang ingkang asri.\n\nnalika srengéngé miwit-i inggil, simbah kakung lajeng tindak dhumateng sabin nitih sepédha ontél. wonten ing sabin, panjeneng-an-ipun mriksa-ni para tani ingkang saweg nindak-aken padamel-an sarta nyiram-i tanem-an. sasampun-ipun cekap, simbah kakung lajeng kondur dhumateng dalem supados saged ngaso sarta dhahar siang sesareng-an kaliyan kulawarga.",
+    "soal": [
+      {
+        "id": 1,
+        "pertanyaan": "jam pira simbah kakung wungu ing wayah énjang?",
+        "pilihan": [
+          "jam papat",
+          "jam lima",
+          "jam enem",
+          "jam pitu"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 2,
+        "pertanyaan": "apa sing diunjuk simbah kakung nalika ing teras ngajeng?",
+        "pilihan": [
+          "kopi panas",
+          "wédang jahé",
+          "téh anget",
+          "és dhawet"
+        ],
+        "kunci": 2
+      },
+      {
+        "id": 3,
+        "pertanyaan": "dhahar-an apa sing didhahar simbah kakung ing wayah énjang?",
+        "pilihan": [
+          "pisang goréng",
+          "tahu goréng",
+          "jadah bakar",
+          "roti kukus"
+        ],
+        "kunci": 0
+      },
+      {
+        "id": 4,
+        "pertanyaan": "sapa sing nyawis-aké dhahar-an sanésé kagem simbah kakung?",
+        "pilihan": [
+          "bakyu",
+          "ibu",
+          "adhik",
+          "bapak"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 5,
+        "pertanyaan": "simbah kakung tindak menyang ngendi nalika srengéngé wis miwit-i dhuwur?",
+        "pilihan": [
+          "menyang pasar",
+          "menyang kantor",
+          "menyang sabin",
+          "menyang puskesmas"
+        ],
+        "kunci": 2
+      },
+      {
+        "id": 6,
+        "pertanyaan": "simbah kakung tindak menyang sabin nitih apa?",
+        "pilihan": [
+          "sepédha motor",
+          "sepédha ontél",
+          "mobil",
+          "dhokar"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 7,
+        "pertanyaan": "apa sing dipriksa-ni simbah kakung nalika wis tekan ing sabin?",
+        "pilihan": [
+          "bocah bocah lagi dolan-an",
+          "para tani sing lagi kerja lan nyiram-i tandur-an",
+          "wong wong sing lagi dagang",
+          "buruh sing lagi ngaso"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 8,
+        "pertanyaan": "kena apa simbah kakung banjur kondur menyang dalem?",
+        "pilihan": [
+          "amarga udan deres",
+          "amarga wis kesel banget",
+          "arep ngaso lan dhahar siang karo kulawarga",
+          "amarga dipara-ni tangga-né"
+        ],
+        "kunci": 2
+      },
+      {
+        "id": 9,
+        "pertanyaan": "tembung [\\wungu\\] ing crita ndhuwur teges-é yaiku",
+        "pilihan": [
+          "turu",
+          "tangi",
+          "adus",
+          "lungguh"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 10,
+        "pertanyaan": "tembung [\\kondur\\] ing crita ndhuwur nduwé-ni teges",
+        "pilihan": [
+          "menyang",
+          "mulih",
+          "lunga",
+          "mlebu"
+        ],
+        "kunci": 1
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "judul": "crita 2",
+    "gambar": "crita2.jpg",
+    "cerita": "saben dinten senin, para siswa ing sekolah dhasar suka maju nindak-aken upacara gendéra wonten ing lapang-an sekolah. nalika bél mungel ing tabuh pitu, sedaya siswa lan para dwija sampun siyap lan kempal kanthi rapi. bapak pangarsa pamulang-an dados pembina upacara sarta maring-i pitutur babag-an kedhisiplin-an lan wigatos-ing sinau kanthi sregep.\n\nsasampun-ipun upacara kapungkur, para siswa lajeng lumebet dhumateng kelas piyambak-piyambak saperlu nampa-ni piwulang. ibu guru ngandhar-aken matéri babag-an piwulang basa jawa kanthi remen lan sabar. sedaya siswa sami mireng-aken piwulang-an-ipun ibu guru lan nindak-aken gladhén kanthi semangat.",
+    "soal": [
+      {
+        "id": 1,
+        "pertanyaan": "ing dina apa para siswa sd suka maju nindak-aké upacara gendéra?",
+        "pilihan": [
+          "dina setu",
+          "dina minggu",
+          "dina senin",
+          "dina selasa"
+        ],
+        "kunci": 2
+      },
+      {
+        "id": 2,
+        "pertanyaan": "tabuh pira nalika bél sekolah mungel kanggo upacara?",
+        "pilihan": [
+          "tabuh enem",
+          "tabuh pitu",
+          "tabuh wolu",
+          "tabuh sanga"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 3,
+        "pertanyaan": "sapa sing dadi pembina upacara ing lapang-an sekolah?",
+        "pilihan": [
+          "bapak pangarsa pamulang-an",
+          "ibu guru basa jawa",
+          "sing jaga sekolah-an",
+          "bapak guru matematika"
+        ],
+        "kunci": 0
+      },
+      {
+        "id": 4,
+        "pertanyaan": "apa sing didhawuh-aké bapak pangarsa pamulang-an nalika paring pitutur?",
+        "pilihan": [
+          "babag-an karesik-an lingkung-an",
+          "babag-an kedhisiplin-an lan wigatos-ing sinau",
+          "babag-an olahraga sesareng-an",
+          "babag-an tata tertib perpustakaan"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 5,
+        "pertanyaan": "para siswa mlebu menyang ngendi sawis-é upacara kapungkur?",
+        "pilihan": [
+          "menyang kantin",
+          "menyang perpustakaan",
+          "menyang kelas piyambak-piyambak",
+          "menyang lapang-an"
+        ],
+        "kunci": 2
+      },
+      {
+        "id": 6,
+        "pertanyaan": "piwulang apa sing diandhar-aké déning ibu guru ing kelas?",
+        "pilihan": [
+          "piwulang matematika",
+          "piwulang basa jawa",
+          "piwulang basa inggris",
+          "piwulang masak"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 7,
+        "pertanyaan": "kepiyé watak-é ibu guru nalika ngandhar-aké matéri piwulang?",
+        "pilihan": [
+          "duka lan galak",
+          "remen lan sabar",
+          "kesesa-sesa",
+          "bingung lan sepi"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 8,
+        "pertanyaan": "apa sing ditindak-aké para siswa nalika ibu guru paring piwulang-an?",
+        "pilihan": [
+          "ramé lan dolan-an piyambak",
+          "turu ing njero kelas",
+          "mireng-aken lan nindak-aké gladhén kanthi semangat",
+          "metu saka njero kelas"
+        ],
+        "kunci": 2
+      },
+      {
+        "id": 9,
+        "pertanyaan": "tembung [\\dwija\\] ing crita ndhuwur nduwé-ni teges yaiku",
+        "pilihan": [
+          "siswa",
+          "guru",
+          "simbok kantin",
+          "pak lurah"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 10,
+        "pertanyaan": "tembung [\\kapungkur\\] ing crita ndhuwur teges-é padha karo",
+        "pilihan": [
+          "rampung",
+          "mungel",
+          "miwit-i",
+          "siyap tata"
+        ],
+        "kunci": 0
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "judul": "crita 3",
+    "gambar": "crita3.jpg",
+    "cerita": "saben dinten minggu soré, para ibu ing kampung wirasan sami kempal wonten ing balé dhusun saperlu nindak-aken kegiat-an arisan. swasana ing balé dhusun katingal ramé lan ngremen-aken amargi para ibu sami ngendikan kanthi guyub rukun sarta bebareng-an nglaras wédang téh anget lan dhahar jajan-an pasar.\n\npuncak-ipun acara inggih punika nalika ngocok kocok-an arisan supados mangertos-i sinten ingkang pikantuk arisan ing dinten punika. nalika nami ingkang pikantuk sampun kawaos-aken, para ibu sami keplok-keplok lan gumujeng kanthi bingah. kegiat-an arisan punika boten namung kanggé ngumpul-aken arta, nanging ugi kanggé njaga pasedulur-an lan kerukun-an warga.",
+    "soal": [
+      {
+        "id": 1,
+        "pertanyaan": "ing dina apa para ibu ing kampung wirasan padha kempal arisan?",
+        "pilihan": [
+          "dina jumat soré",
+          "dina sabtu soré",
+          "dina minggu soré",
+          "dina senin soré"
+        ],
+        "kunci": 2
+      },
+      {
+        "id": 2,
+        "pertanyaan": "ana ing ngendi para ibu nindak-aké kegiat-an arisan punika?",
+        "pilihan": [
+          "ing balé dhusun",
+          "ing pasar",
+          "ing sekolah",
+          "ing lapang-an"
+        ],
+        "kunci": 0
+      },
+      {
+        "id": 3,
+        "pertanyaan": "kepiyé swasana ing balé dhusun nalika para ibu padha kempal?",
+        "pilihan": [
+          "sepi lan peteng",
+          "ramé lan ngremen-aké",
+          "wedi lan sepi",
+          "sedhih lan peteng"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 4,
+        "pertanyaan": "apa sing diunjuk lan didhahar para ibu nalika nglaras bebareng-an?",
+        "pilihan": [
+          "kopi lan roti",
+          "wédang téh anget lan jajan-an pasar",
+          "es dhawet lan soto",
+          "banyu putih lan gedhang"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 5,
+        "pertanyaan": "apa sing dadi puncak-ipun acara arisan para ibu punika?",
+        "pilihan": [
+          "njoget bebareng-an",
+          "ngocok kocok-an arisan",
+          "milih ketua anyar",
+          "resik-resik balé dhusun"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 6,
+        "pertanyaan": "apa sing ditindak-aké para ibu nalika nami sing pikantuk arisan kawaos-aké?",
+        "pilihan": [
+          "mlayu metu",
+          "keplok-keplok lan ngguyu bingah",
+          "nangis bebareng-an",
+          "meneng waé"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 7,
+        "pertanyaan": "saliya-né kanggo ngumpul-aké arta, apa guna-né arisan miturut crita ing ndhuwur?",
+        "pilihan": [
+          "kanggo njaga pasedulur-an lan kerukun-an",
+          "kanggo pamer klambi",
+          "kanggo golèk mungsuh",
+          "kanggo dagang pangan-an"
+        ],
+        "kunci": 0
+      },
+      {
+        "id": 8,
+        "pertanyaan": "apa jeneng kampung papan panggon-an arisan para ibu kasebut?",
+        "pilihan": [
+          "kampung wirasan",
+          "kampung sukamaju",
+          "kampung rejo",
+          "kampung makmur"
+        ],
+        "kunci": 0
+      },
+      {
+        "id": 9,
+        "pertanyaan": "tembung [\\kempal\\] ing crita ndhuwur nduwé-ni teges yaiku",
+        "pilihan": [
+          "pisah",
+          "kumpul",
+          "mlayu",
+          "turu"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 10,
+        "pertanyaan": "tembung [\\bingah\\] ing crita ndhuwur teges-é padha karo",
+        "pilihan": [
+          "sedhih",
+          "bungah",
+          "duka",
+          "bingung"
+        ],
+        "kunci": 1
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "judul": "crita 4",
+    "gambar": "crita4.jpg",
+    "cerita": "saben dinten minggu énjang, para warga ing dhusun sami kempal saperlu nindak-aken kerja bakti lan gotong royong kanggé ménget-i dinten ambal warsa kamardikan républik indhonésia. para warga sami ngresik-i mergi, selokan, sarta masang gendéra lan umbul-umbul ing saben ngajeng dalem supados papan panggen-an katingal asri lan ramé.\n\nswasana ing kerja bakti punika katingal ngremen-aken amargi sadaya warga nyambut damel kanthi rukun lan semangat. para ibu ugi nyawos-aken wédang téh lan dhahar-an kanggé para warga ingkang sami kerja bakti supados mboten ngelak lan lesah. gotong royong punika ndados-aken masarakat sangsaya raket lan siap ngramék-aken dinten kamardikan.",
+    "soal": [
+      {
+        "id": 1,
+        "pertanyaan": "ing dina apa para warga nindak-aké kerja bakti lan gotong royong?",
+        "pilihan": [
+          "dina jumat énjang",
+          "dina sabtu énjang",
+          "dina minggu énjang",
+          "dina senin énjang"
+        ],
+        "kunci": 2
+      },
+      {
+        "id": 2,
+        "pertanyaan": "apa tujuan-é para warga nindak-aké kerja bakti kasebut?",
+        "pilihan": [
+          "kanggo ménget-i dinten ambal warsa kamardikan républik indhonésia",
+          "kanggo nyiap-aké pasar malem",
+          "kanggo mbangun balé dhusun",
+          "kanggo dolan-an sesareng-an"
+        ],
+        "kunci": 0
+      },
+      {
+        "id": 3,
+        "pertanyaan": "apa waé sing diresik-i déning para warga nalika kerja bakti?",
+        "pilihan": [
+          "omah piyambak-piyambak",
+          "mergi lan selokan",
+          "pasar lan sekolah",
+          "lapangan olahraga"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 4,
+        "pertanyaan": "barang apa sing dipasang para warga ing ngajeng dalem-é?",
+        "pilihan": [
+          "lampu hias",
+          "gendéra lan umbul-umbul",
+          "spandhuk cilik",
+          "balon warna-warni"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 5,
+        "pertanyaan": "apa sing disawos-aké déning para ibu kanggo para warga sing kerja bakti?",
+        "pilihan": [
+          "és dhawet lan roti",
+          "wédang téh lan dhahar-an",
+          "kopi panas lan jadah",
+          "banyu putih lan gedhang"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 6,
+        "pertanyaan": "kepiyé swasana nalika para warga nindak-aké kerja bakti?",
+        "pilihan": [
+          "ramé lan ngremen-aké",
+          "sepi lan peteng",
+          "panas lan greget-an",
+          "sedhih lan sepi"
+        ],
+        "kunci": 0
+      },
+      {
+        "id": 7,
+        "pertanyaan": "apa guna-né utawa mumpangat-é gotong royong kasebut kanggo para warga?",
+        "pilihan": [
+          "nggawé warga dadi kesel",
+          "ndados-aké masarakat sangsaya raket",
+          "kanggo pamer klambi",
+          "kanggo golék bathi"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 8,
+        "pertanyaan": "sapa sing mélu nyambut damel nindak-aké kerja bakti ing dhusun?",
+        "pilihan": [
+          "para ibu waé",
+          "para bapak waé",
+          "sadaya para warga",
+          "bocah-bocah waé"
+        ],
+        "kunci": 2
+      },
+      {
+        "id": 9,
+        "pertanyaan": "tembung [\\ngresik-i\\] ing crita ndhuwur nduwé-ni teges yaiku",
+        "pilihan": [
+          "nggawé reged",
+          "ngilang-i reged-an",
+          "ngrusak",
+          "ngobong"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 10,
+        "pertanyaan": "tembung [\\raket\\] ing crita ndhuwur teges-é padha karo ...",
+        "pilihan": [
+          "adoh",
+          "cedhak rukun banget",
+          "duka",
+          "lumayu"
+        ],
+        "kunci": 1
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "judul": "crita 5",
+    "gambar": "crita5.jpg",
+    "cerita": "nalika préhi sekolah, bapak lan ibu ngajak tini, setya, sarta prasaja tindak dhumateng kebon sato kéwan saperlu pelesir-an. wonten ing ngriku, swasana katingal ramé lan ngremen-aken amargi kathah para wisatawan ingkang sami mriksa-ni manéka warni sato kéwan. tini ingkang dados bakyu paling sepuh kanthi sabar mbiyantu ibu njaga adhik-ipun ingkang paling alit, inggih punika prasaja, supados boten lepas saking pangawas-an.\n\nananging, setya ingkang remen sanget mriksa-ni gajah lan macan malah lumayu ndhisik-i piyambak-an kanthi gancang-an. bapak ngantos bingung pados-pados amargi setya ical saking rombong-an, saéngga bapak kedah ngubeng-i kandhang kasebut kanthi gopoh. pungkas-an-ipun, setya kapanggih saweg ngadeg gumun ing ngajeng kandhang kéwan kanthi pasuryan ingkang bingah, saéngga bapak lajeng nggandheng tangan-ipun setya supados boten lepas malih.",
+    "soal": [
+      {
+        "id": 1,
+        "pertanyaan": "ing ngendi kulawarga tindak nalika préhi sekolah?",
+        "pilihan": [
+          "menyang pasar",
+          "menyang kebon sato kéwan",
+          "menyang panté",
+          "menyang gunung"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 2,
+        "pertanyaan": "sapa sing mbantu ibu nganca-ni lan njaga prasaja?",
+        "pilihan": [
+          "setya",
+          "tini",
+          "bapak",
+          "tangga-né"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 3,
+        "pertanyaan": "kena apa setya mlayu ndhisik-i rombong-an kulawarga?",
+        "pilihan": [
+          "amarga wedi karo kéwan",
+          "amarga kepéngin enggal mriksa-ni gajah lan macan",
+          "amarga golék pangan-an",
+          "amarga diajak kanca-né"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 4,
+        "pertanyaan": "kepiyé perasaan-é bapak nalika setya ora ana ing cedhak-é?",
+        "pilihan": [
+          "bingung lan gopoh mados-i",
+          "seneng banget",
+          "muring-muring lan nesu",
+          "meneng waé"
+        ],
+        "kunci": 0
+      },
+      {
+        "id": 5,
+        "pertanyaan": "ing ngendi setya pungkasan-é bisa kapanggih déning bapak?",
+        "pilihan": [
+          "ing cedhak lawang mlebu",
+          "ing ngarep kandhang kéwan",
+          "ing warung",
+          "ing njero mobil"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 6,
+        "pertanyaan": "apa sing ditindak-aké bapak sawis-é nemo-kaké setya?",
+        "pilihan": [
+          "nyenén-i setya ing ngarep-é wong akéh",
+          "nggandheng tangan-é setya supados ora ucul malih",
+          "ngajak setya mulih dhisik",
+          "ngongkon setya mlayu manéh"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 7,
+        "pertanyaan": "kepiyé wujud pitulung-ané tini marang wong tuwa-né?",
+        "pilihan": [
+          "tumbas tikét mlebu",
+          "njaga lan nganca-ni prasaja kanthi sabar",
+          "nuntun sepédha motor",
+          "nggawa tas pangan-an sing abot"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 8,
+        "pertanyaan": "sapa anak sing paling alit ing kulawarga kasebut?",
+        "pilihan": [
+          "tini",
+          "setya",
+          "prasaja",
+          "suparja"
+        ],
+        "kunci": 2
+      },
+      {
+        "id": 9,
+        "pertanyaan": "tembung [\\sato kéwan\\] ing crita ndhuwur nduwé-ni teges",
+        "pilihan": [
+          "tandur-an",
+          "binatang",
+          "pangan-an",
+          "ombén-ombén"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 10,
+        "pertanyaan": "tembung [\\pasuryan\\] ing crita ndhuwur teges-é padha karo",
+        "pilihan": [
+          "sikil",
+          "rai",
+          "tangan",
+          "rambut"
+        ],
+        "kunci": 1
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "judul": "crita 6",
+    "gambar": "crita6.jpg",
+    "cerita": "gembil, suryani, kartika, krisna, lan naréndra inggih punika gangsal kanca cerak ingkang dalem-ipun satunggal kampung lan tansah rukun sanget. saben énjang, bocah gangsal punika tansah bidhal dhumateng sekolah sesareng-an kanthi lumampah nyambi gegojég-an lan ngguyu bingah. keakrab-an-ipun bocah gangsal punika boten namung wonten ing kampung, nanging ugi katingal nalika wonten ing sekolah.\n\nnalika jam ngaso ing sekolah, gembil lan kanca kanca-nipun nindak-aken ameng ameng-an tradisional inggih punika gobak sodor wonten ing lapang-an sesareng-an kaliyan kanca sanes-ipun. swasana katingal ramé lan ngremen-aken sanget amargi sadaya siswa sami mlayu lan keplok keplok kanthi bingah. menawi wonten kanca ingkang ngrasa-kaken angél nalika sinau, para sahabat punika tansah siyap mbiyantu ngajar-i ngantos saged.",
+    "soal": [
+      {
+        "id": 1,
+        "pertanyaan": "pira cacah-é kanca cerak sing dicrita-kaké ing ndhuwur?",
+        "pilihan": [
+          "telu",
+          "papat",
+          "lima",
+          "enem"
+        ],
+        "kunci": 2
+      },
+      {
+        "id": 2,
+        "pertanyaan": "kepiyé cara-né bocah lima iku budhal menyang sekolah ing wayah énjang?",
+        "pilihan": [
+          "numpak pit",
+          "mlaku sesareng-an",
+          "numpak mobil",
+          "dianter wong tuwané"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 3,
+        "pertanyaan": "dolan-an tradisional apa sing ditindak-aké nalika jam ngaso ing sekolah?",
+        "pilihan": [
+          "égrang",
+          "gobak sodhor",
+          "éngklék",
+          "benthik"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 4,
+        "pertanyaan": "ana ing ngendi para bocah iku padha dolan-an gobak sodor?",
+        "pilihan": [
+          "ing njero kelas",
+          "ing lapang-an sekolah",
+          "ing kantin",
+          "ing dalan gedhé"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 5,
+        "pertanyaan": "kepiyé swasana nalika para siswa padha dolan-an ing lapang-an?",
+        "pilihan": [
+          "ramé lan ngremen-aké",
+          "sepi lan peteng",
+          "wedi lan sedhih",
+          "panik lan bingung"
+        ],
+        "kunci": 0
+      },
+      {
+        "id": 6,
+        "pertanyaan": "apa sing ditindak-aké gembil lan kanca-né yen ana siswa sing ngrasa-kaké angél nalika sinau?",
+        "pilihan": [
+          "ngécé lan ngguyu",
+          "ninggal-aké piyambak-an",
+          "mbiyantu lan ngajar-i nganti bisa",
+          "nglapor-aké marang ibu guru"
+        ],
+        "kunci": 2
+      },
+      {
+        "id": 7,
+        "pertanyaan": "saliya-né ing sekolah, ing ngendi manéh bocah lima iku padha rukun lan akrab?",
+        "pilihan": [
+          "ing pasar",
+          "ing kampung",
+          "ing kutha",
+          "ing gunung"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 8,
+        "pertanyaan": "sapa waé sing dadi paraga ing crita ing ndhuwur?",
+        "pilihan": [
+          "bapak, ibu, lan para guru",
+          "gembil, suryani, kartika, krisna, lan naréndra",
+          "para tani lan para warga",
+          "simbah kakung lan ibu"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 9,
+        "pertanyaan": "tembung [\\angél\\] ing crita ndhuwur nduwé-ni teges padha karo",
+        "pilihan": [
+          "gampang",
+          "susah",
+          "énggal",
+          "seneng"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 10,
+        "pertanyaan": "tembung [\\cerak\\] ing crita ndhuwur nduwé-ni teges yaiku",
+        "pilihan": [
+          "adoh",
+          "cedhak utawa raket",
+          "anyar",
+          "sepi"
+        ],
+        "kunci": 1
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "judul": "crita 7",
+    "gambar": "crita7.jpg",
+    "cerita": "ing dhusun, gembil, suryani, kartika, krisna, lan naréndra misuwur minangka bocah bocah ingkang remen mbiyantu para warga. saben dinten soré sasampun-ipun ngaso, bocah gangsal punika asring mlampah mlampah ing saubeng-ipun kampung saperlu mbiyantu para simbah ingkang mbetah-aken pitulung-an, kayata ngasta blanjan utawi ngempal-aken suket kanggé ingon-ingon.\n\nsasampun-ipun nindak-aken pakaryan saé punika, gembil lan kanca kanca-nipun lajeng kempal wonten ing lapangan kampung kanggé ameng ameng-an layangan lan égrang sesareng-an kaliyan bocah bocah sanés-ipun. swasana ing kampung katingal ramé lan ngremen-aken sanget, amargi para warga sami ngalem kasunyatan manawa para sahabat punika boten namung pinter dolan-an, nanging ugi kagung-an manah ingkang luhur lan seneng gotong royong.",
+    "soal": [
+      {
+        "id": 1,
+        "pertanyaan": "sapa waé paraga sing dicrita-kaké ing dhusun kasebut?",
+        "pilihan": [
+          "para guru lan murid",
+          "gembil, suryani, kartika, krisna, lan naréndra",
+          "para tani lan para pedagang",
+          "bapak lan ibu guru"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 2,
+        "pertanyaan": "kapan bocah lima iku biyasa-né mlaku-mlaku mbiyantu warga kampung?",
+        "pilihan": [
+          "saben dinten ésuk",
+          "saben dinten soré",
+          "saben bengi",
+          "saben tengah wengi"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 3,
+        "pertanyaan": "apa sing ditindak-aké gembil lan kanca kanca-né kanggo mbiyantu para simbah?",
+        "pilihan": [
+          "nggawa blanjan lan ngumpul-aké suket",
+          "dodol-an ing pasar",
+          "ngrusak tandur-an",
+          "dolan-an banyu"
+        ],
+        "kunci": 0
+      },
+      {
+        "id": 4,
+        "pertanyaan": "ana ing ngendi bocah-bocah iku padha kempal sawis-é mbiyantu para warga?",
+        "pilihan": [
+          "ing pasar",
+          "ing lapang-an kampung",
+          "ing njero omah",
+          "ing sekolah"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 5,
+        "pertanyaan": "dolan-an apa sing ditindak-aké ing lapang-an kampung?",
+        "pilihan": [
+          "bal-bal-an lan catur",
+          "layangan lan égrang",
+          "éngklék lan benthik",
+          "catur lan dam-dam-an"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 6,
+        "pertanyaan": "kepiyé sikap-é para warga marang gembil lan kanca kanca-né?",
+        "pilihan": [
+          "duka lan nesu",
+          "ngalem lan seneng",
+          "ora peduli",
+          "wedi"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 7,
+        "pertanyaan": "saliya-né pinter dolan-an, apa sing diduwé-ni bocah lima iku miturut para warga?",
+        "pilihan": [
+          "manah sing luhur lan seneng gotong royong",
+          "rasa sombong",
+          "sikap pamér",
+          "rasa kesel"
+        ],
+        "kunci": 0
+      },
+      {
+        "id": 8,
+        "pertanyaan": "sapa sing melu dolan-an layangan lan égrang ing lapang-an kampung?",
+        "pilihan": [
+          "para bapak bapak waé",
+          "gembil, kanca kanca-né, lan bocah bocah liya-né",
+          "ibu ibu waé",
+          "para pedagang"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 9,
+        "pertanyaan": "tembung [\\mbetah-aken\\] ing crita ndhuwur nduwé-ni teges padha karo",
+        "pilihan": [
+          "butuh utawa mbutuh-aké",
+          "mbuwang",
+          "ngedol",
+          "mlayu"
+        ],
+        "kunci": 0
+      },
+      {
+        "id": 10,
+        "pertanyaan": "tembung [\\ngalem\\] ing crita ndhuwur nduwé-ni teges yaiku",
+        "pilihan": [
+          "nyenen-i",
+          "ngalembana",
+          "nesu nesu",
+          "ninggal-aké"
+        ],
+        "kunci": 1
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "judul": "crita 8",
+    "gambar": "crita8.jpg",
+    "cerita": "saben dinten ing wanci subuh sadéréng-ipun srengéngé njedhul, kawonten-an ing peken sampun katingal ramé sanget. para bakul lan tiyang sadé-an sami rawuh saking pundi-pundi saperlu nata barang sadé-an kayata jangan-an, woh woh-an, sarta wos wonten ing lapak piyambak piyambak.\n\npara pamundhut ingkang mayoritas para ibu ugi sampun sami dhateng ing peken saperlu tumbas kabetah-an ingkang dipunbetah-aken ing saben dinten-ipun. swasana ing peken sangsaya ramé nalika wonten swanten guyon-an lan ngenyang rega antawis-ipun para bakul lan para pamundhut. keraméan ing wanci subuh punika nuduh-aken semangat-ipun masarakat anggén-ipun pados rejeki lan njaga rodha ékonomi.",
+    "soal": [
+      {
+        "id": 1,
+        "pertanyaan": "ing wanci apa kawonten-an ing peken wis wiwit ramé?",
+        "pilihan": [
+          "ing wanci soré",
+          "ing wanci tengah wengi",
+          "ing wanci subuh",
+          "ing wanci awan"
+        ],
+        "kunci": 2
+      },
+      {
+        "id": 2,
+        "pertanyaan": "barang apa waé sing disadé déning para bakul ing peken?",
+        "pilihan": [
+          "jangan-an, woh woh-an, lan wos",
+          "klambi lan sepatu",
+          "perhiasan lan emas",
+          "sepédha lan pit motor"
+        ],
+        "kunci": 0
+      },
+      {
+        "id": 3,
+        "pertanyaan": "sapa sing mayoritas rawuh ing peken ing wanci subuh kanggo tumbas kabetah-an?",
+        "pilihan": [
+          "para bapak",
+          "bocah bocah sekolah",
+          "para mudha",
+          "para ibu"
+        ],
+        "kunci": 3
+      },
+      {
+        "id": 4,
+        "pertanyaan": "swara apa sing nggawé kawonten-an ing peken sangsaya ramé?",
+        "pilihan": [
+          "swara musik lan tontonan",
+          "swara guyon lan ngenyang rega",
+          "swara motor",
+          "swara udan deres"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 5,
+        "pertanyaan": "apa tujuan-é para bakul teka ing peken ing wanci subuh?",
+        "pilihan": [
+          "kanggo dolan-an lan ngobrol",
+          "kanggo olah raga énjang",
+          "kanggo nata barang sadé-an ing lapak",
+          "kanggo rapat warga"
+        ],
+        "kunci": 2
+      },
+      {
+        "id": 6,
+        "pertanyaan": "keramé-an ing peken ing wanci subuh iku nuduh-aké apa?",
+        "pilihan": [
+          "semangat-ipun masarakat anggén-ipun pados rejeki",
+          "rasa seneng dolan-an",
+          "rasa wedi marang bengi",
+          "kahan-an sing sepi"
+        ],
+        "kunci": 0
+      },
+      {
+        "id": 7,
+        "pertanyaan": "ana ing ngendi para bakul nata barang sadé-ané?",
+        "pilihan": [
+          "ing njero omah",
+          "ing pinggir dalan gedhé",
+          "ing lapang-an désa",
+          "ing lapak piyambak piyambak"
+        ],
+        "kunci": 3
+      },
+      {
+        "id": 8,
+        "pertanyaan": "tembung [\\peken\\] ing crita ing ndhuwur nduwé-ni teges padha karo",
+        "pilihan": [
+          "toko",
+          "pasar",
+          "warung",
+          "omah"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 9,
+        "pertanyaan": "tembung [\\tumbas\\] ing crita ing ndhuwur nduwé-ni teges yaiku",
+        "pilihan": [
+          "tuku",
+          "adol",
+          "mbuwang",
+          "nggawa"
+        ],
+        "kunci": 0
+      },
+      {
+        "id": 10,
+        "pertanyaan": "tembung [\\sadé-an\\] ing crita ing ndhuwur nduwé-ni teges padha karo",
+        "pilihan": [
+          "simpen-an",
+          "pangan-an mateng",
+          "dagang-an",
+          "klambi anyar"
+        ],
+        "kunci": 2
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "judul": "crita 9",
+    "gambar": "crita9.jpg",
+    "cerita": "nalika ing wanci soré, gembil, naréndra, suryani, kartika, lan krisna sami lumampah sesareng-an saperlu kondur dhumateng dalem-ipun piyambak piyambak. sadéréng-ipun nyabrang ing mergi ingkang ramé kendharaan, gangsal bocah punika mandheg rumiyin wonten ing nginggil panyabrang-an zébrakros saperlu mriksa kawonten-an. gembil lan naréndra ngémut-aken kanca kanca-nipun supados setiti mriksa-ni sisih kiwa lan tengen kanggé njaga kawilujeng-an.\n\nbocah gangsal punika nembé lumampah nyabrang nalika sadaya kendharaan sampun mandheg lan lampu pituduh kanggé panyabrang sampun mawi werna ijo. naréndra lan suryani ugi ngangkat asta-nipun minangka pituduh supados para pangguna kendharaan mangertos-i manawi wonten tiyang ingkang saweg nyabrang. kanthi nindak-aken tata cara ingkang leres punika, gangsal bocah saged nyabrang mergi kanthi wilujeng lan tentrem.",
+    "soal": [
+      {
+        "id": 1,
+        "pertanyaan": "apa sing ditindak-aké gembil lan kanca-né sadurung-é nyabrang dalan?",
+        "pilihan": [
+          "mlayu gancang-an",
+          "mandheg dhisik ing zébrakros lan mriksa kahan-an",
+          "langsung nyabrang tanpa ndeleng",
+          "dolan-an bal-balan"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 2,
+        "pertanyaan": "ing ngendi gembil lan kanca-né padha mandheg nalika arep nyabrang?",
+        "pilihan": [
+          "ing zébrakros",
+          "ing tengah mergi",
+          "ing pinggir selokan",
+          "ing ngarep toko"
+        ],
+        "kunci": 0
+      },
+      {
+        "id": 3,
+        "pertanyaan": "arah ngendi sing kudu dipriksa-ni kanthi setiti nalika arep nyabrang?",
+        "pilihan": [
+          "dhuwur lan ngisor",
+          "mburi waé",
+          "kiwa lan tengen",
+          "njero lan njaba"
+        ],
+        "kunci": 2
+      },
+      {
+        "id": 4,
+        "pertanyaan": "kapan bocah bocah iku wiwit lumampah nyabrang mergi?",
+        "pilihan": [
+          "nalika kendharaan isih banter",
+          "nalika lampu pituduh warna abang",
+          "nalika kendharaan ora ana sing nyemprot",
+          "nalika kabéh kendharaan wis mandheg lan lampu werna ijo"
+        ],
+        "kunci": 3
+      },
+      {
+        "id": 5,
+        "pertanyaan": "sapa waé paraga sing dicrita-kaké ing crita kasebut?",
+        "pilihan": [
+          "gembil, naréndra, suryani, kartika, lan krisna",
+          "bapak, ibu, lan para guru",
+          "para tani lan pedagang",
+          "simbah kakung lan para warga"
+        ],
+        "kunci": 0
+      },
+      {
+        "id": 6,
+        "pertanyaan": "apa sing ditindak-aké naréndra lan suryani kanggo pituduh para pangguna kendharaan?",
+        "pilihan": [
+          "mlaku karo nembang",
+          "ngangkat tangan-é",
+          "njerit banter",
+          "ngucap-aké salam"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 7,
+        "pertanyaan": "apa guna utawa tujuan nindak-aké aturan nyabrang sing leres?",
+        "pilihan": [
+          "supados cepet ngelak",
+          "supaya oléh hadiah",
+          "kanggo njaga kawilujeng-an lan slamet",
+          "kanggo pamer marang kanca"
+        ],
+        "kunci": 2
+      },
+      {
+        "id": 8,
+        "pertanyaan": "werna apa lampu pituduh kanggo panyabrang sing tandha-né wis kena nyabrang?",
+        "pilihan": [
+          "werna abang",
+          "werna kuning",
+          "werna ireng",
+          "werna ijo"
+        ],
+        "kunci": 3
+      },
+      {
+        "id": 9,
+        "pertanyaan": "tembung [\\kawilujeng-an\\] ing crita ndhuwur nduwé-ni teges padha karo",
+        "pilihan": [
+          "kaslamet-an",
+          "cilaka",
+          "kangél-an",
+          "kasusah-an"
+        ],
+        "kunci": 0
+      },
+      {
+        "id": 10,
+        "pertanyaan": "tembung [\\leres\\] ing crita ndhuwur nduwé-ni teges yaiku",
+        "pilihan": [
+          "salah",
+          "bener utawa trep",
+          "miring",
+          "kléru"
+        ],
+        "kunci": 1
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "judul": "crita 10",
+    "gambar": "crita10.jpg",
+    "cerita": "nalika wanci préi sekolah, tini, setya, sarta prasaja ndhérék tiyang sepuh-ipun sowan dhumateng dalem-ipun simbah ingkang mapan wonten ing dhusun asri. hawaning papan kasebut krasa asrep lan seger, sarta toya ing lépén katon wening sanget saéngga nengsem-aken manah. tini kaliyan setya lajeng ngajak prasaja mlampah mlampah nyaket-i lépén saperlu mriksa-ni kaéndah-an alam.\n\nwonten ing pinggir lépén, bocah tiga punika kepanggih kaliyan kanca anyar ingkang nami amrih lan laras. para bocah punika lajeng gegojég-an toya sesareng-an kanthi bingah. setya kaliyan amrih katon lincah nglangi, déné tini lan laras tlatén njaga prasaja ingkang saweg ngumpul-aken séla alit. kawonten-an ing lépén kasebut sangsaya ramé lan dados pengalam-an ingkang ngremen-aken sanget kanggé kulawarga punika.",
+    "soal": [
+      {
+        "id": 1,
+        "pertanyaan": "sapa waé bocah sing dikanca-ni wong tuwa-né sowan menyang dalem-é simbah?",
+        "pilihan": [
+          "tini, setya, lan prasaja",
+          "amrih, laras, lan gembil",
+          "suryani, kartika, lan krisna",
+          "naréndra, amrih, lan setya"
+        ],
+        "kunci": 0
+      },
+      {
+        "id": 2,
+        "pertanyaan": "kepiyé kahan-an hawa lan banyu ing dhusun papan panggon-ané simbah?",
+        "pilihan": [
+          "panas lan banyu-né reged",
+          "kebeg ing kukus lan banyu-né gatel",
+          "peteng lan banyu-né mambu",
+          "hawa-né asrep lan banyu-né wening banget"
+        ],
+        "kunci": 3
+      },
+      {
+        "id": 3,
+        "pertanyaan": "ing ngendi tini, setya, lan prasaja padha mlaku mlaku nalika tekan dhusun?",
+        "pilihan": [
+          "ing njero pasar",
+          "ing pinggir lépén",
+          "ing ndhuwur wit wit-an",
+          "ing njero lapang-an bal-bal-an"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 4,
+        "pertanyaan": "sapa kenal-an anyar sing ketemu karo para bocah ing pinggir lépén?",
+        "pilihan": [
+          "gembil lan naréndra",
+          "suryani lan kartika",
+          "krisna lan prasaja",
+          "amrih lan laras"
+        ],
+        "kunci": 3
+      },
+      {
+        "id": 5,
+        "pertanyaan": "apa sing ditindak-aké setya lan amrih nalika ana ing lépén?",
+        "pilihan": [
+          "mlayu mlayu ing ndhuwur kreteg",
+          "turu ing pinggir suket",
+          "nglangi kanthi lincah ing njero banyu",
+          "mbuwang sampah ing banyu"
+        ],
+        "kunci": 2
+      },
+      {
+        "id": 6,
+        "pertanyaan": "sapa sing njaga lan nganca-ni prasaja sing lagi ngumpul-aké séla alit?",
+        "pilihan": [
+          "tini lan laras",
+          "amrih lan setya",
+          "bapak lan ibu",
+          "simbah lan warga"
+        ],
+        "kunci": 0
+      },
+      {
+        "id": 7,
+        "pertanyaan": "apa sing nggawé swasana ing lépén kasebut saya ramé?",
+        "pilihan": [
+          "swara kendharaan sing banter",
+          "swara banyu udan deres",
+          "bocah bocah sing padha gegojeg-an toya lan nglangi",
+          "pasar sing buka ing pinggir kali"
+        ],
+        "kunci": 2
+      },
+      {
+        "id": 8,
+        "pertanyaan": "kapan kulawarga kasebut sowan menyang dalem-é simbah?",
+        "pilihan": [
+          "nalika dina senin ésuk",
+          "nalika wanci préi sekolah",
+          "nalika wanci tengah wengi",
+          "nalika dina jumat soré"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 9,
+        "pertanyaan": "tembung [\\wening\\] ing crita ndhuwur nduwé-ni teges padha karo",
+        "pilihan": [
+          "reged utawa keruh",
+          "panas utawa abot",
+          "adoh utawa dhuwur",
+          "bening utawa resik banget"
+        ],
+        "kunci": 3
+      },
+      {
+        "id": 10,
+        "pertanyaan": "tembung [\\séla\\] ing crita ndhuwur nduwé-ni teges yaiku",
+        "pilihan": [
+          "kayu utawa wit",
+          "watu",
+          "suket utawa tandur-an",
+          "wedhi pasir"
+        ],
+        "kunci": 1
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "judul": "crita 11",
+    "gambar": "crita11.jpg",
+    "cerita": "nalika wanci énjang, gembil, naréndra, suryani, kartika, lan krisna sami lumampah nyaket-i lépén ing inggil dhusun saperlu mriksa-ni aliran toya. bocah gangsal punika kagét amargi alir-an toya lépén katon suda lan boten mili kanthi lancar. sasampun-ipun dipunpriksa, jebul wonten tumpuk-an pang lan godhong garing ingkang ngalang-i margining toya saéngga damel alir-aning lépén katutup.\n\nmriksa-ni kawonten-an kasebut, gembil lan mitra mitra-nipun lajeng ngajak para mudha lan warga dhusun kanggé nindak-aken gugur gunung utawi nyambut damel sesareng-an. para warga sami semangat lan gotong royong ngresik-i tumpuk-an sampah sarta pang ingkang ngalang-i sumber toya punika. sasampun-ipun resik, aliran toya lépén saged mili lancar malih saéngga para warga sami bingah lan manunggal njaga kalestarian lingkung-an dhusun.",
+    "soal": [
+      {
+        "id": 1,
+        "pertanyaan": "apa sing njalar-i alir-an banyu lépén ing inggil dhusun dadi suda?",
+        "pilihan": [
+          "amarga diusung déning para warga",
+          "amarga ana banjir gedhé",
+          "amarga banyu-né diombe kéwan",
+          "amarga katutup tumpuk-an pang lan godhong garing"
+        ],
+        "kunci": 3
+      },
+      {
+        "id": 2,
+        "pertanyaan": "sapa sing sepisan-an mriksa lan nemo-kaké sumber banyu sing katutup?",
+        "pilihan": [
+          "para simbah lan para pedagang",
+          "ibu ibu ing balé dhusun",
+          "pak lurah désa piyambak-an",
+          "gembil, naréndra, suryani, kartika, lan krisna"
+        ],
+        "kunci": 3
+      },
+      {
+        "id": 3,
+        "pertanyaan": "ing ngendi panggon-an lépén sing aliran-é katutup kasebut?",
+        "pilihan": [
+          "ing njero pasar",
+          "ing inggil dhusun",
+          "ing ngarep sekolah",
+          "ing pinggir lapang-an bal bal-an"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 4,
+        "pertanyaan": "apa sing ditindak-aké gembil lan kanca kanca-né sawis-é ngerté-ni kahan-an kasebut?",
+        "pilihan": [
+          "ngajak para mudha lan warga gugur gunung",
+          "dolan-an banyu nganti soré",
+          "mlayu mulih lan turu",
+          "meneng waé ora peduli"
+        ],
+        "kunci": 0
+      },
+      {
+        "id": 5,
+        "pertanyaan": "kepiyé sikap-é para warga lan para mudha nalika diajak gugur gunung?",
+        "pilihan": [
+          "bingung lan duka",
+          "sedhih lan wedi",
+          "semangat lan gotong royong",
+          "ora gelem mbiyantu"
+        ],
+        "kunci": 2
+      },
+      {
+        "id": 6,
+        "pertanyaan": "kepiyé kahan-an alir-an toya lépén sawis-é ditindak-aké gugur gunung?",
+        "pilihan": [
+          "mambu lan reged",
+          "wis ora mili manéh",
+          "saged mili lancar malih",
+          "dadi saya suda banyu-né"
+        ],
+        "kunci": 2
+      },
+      {
+        "id": 7,
+        "pertanyaan": "apa sing bisa dijupuk saka tumindak-é gembil lan kancané?",
+        "pilihan": [
+          "rasa sombong marang warga",
+          "rasa pengin dialem déning guru",
+          "sikap pamer marang kanca liyané",
+          "kepedulian lingkung-an lan kerukun-an warga"
+        ],
+        "kunci": 3
+      },
+      {
+        "id": 8,
+        "pertanyaan": "kepiyé perasaan-é para warga sawis-é sumber banyu dadi resik manéh?",
+        "pilihan": [
+          "bingah lan seneng banget",
+          "muring-muring lan gopoh",
+          "wedi lan kagét",
+          "sedhih lan kuciwa"
+        ],
+        "kunci": 0
+      },
+      {
+        "id": 9,
+        "pertanyaan": "tembung [\\suda\\] ing crita ndhuwur nduwé-ni teges padha karo",
+        "pilihan": [
+          "dadi sithik",
+          "tambah akéh",
+          "dhuwur banget",
+          "resik banget"
+        ],
+        "kunci": 0
+      },
+      {
+        "id": 10,
+        "pertanyaan": "tembung [\\mitra\\] ing crita ndhuwur nduwé-ni teges yaiku",
+        "pilihan": [
+          "mungsuh",
+          "wong liya",
+          "kanca",
+          "pedagang"
+        ],
+        "kunci": 2
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "judul": "crita 12",
+    "gambar": "crita12.jpg",
+    "cerita": "wonten ing pawon, tini sarta setya kanthi remen mbiyantu simbah damel jajan-an pasar kuna ingkang nami thiwul sarta gethuk kanggé acara pamér-an wonten ing sekolah. bocah kalih punika mireng-aken pituduh saking simbah babag-an cara-nipun ngolah bahan alami supados rasa sarta wujud-ipun dados éca. tini tlatén ngudhak adhon-an, déné setya mbiyantu nyawos-aken piranti sarta godhong gedhang ingkang sampun diresik-i.\n\nsinambi ngolah bahan, simbah ugi ngendika-kaken piwulang sarta filosofi ingkang wonten ing jajan-an kasebut kanggé katenang-an manah. simbah ngendika bilih olah olah punika mbetah-aken kasabar-an ingkang tulus supados asil-ipun ngremen-aken. tini kaliyan setya sangsaya ngurmat-i piwulang saking simbah sarta saya semangat njaga waris-an kuna punika supados mboten ical kadhahar ing jaman.",
+    "soal": [
+      {
+        "id": 1,
+        "pertanyaan": "apa aran-é jajan-an pasar kuna sing digawé déning simbah, tini, lan setya?",
+        "pilihan": [
+          "roti lan bolu",
+          "thiwul lan gethuk",
+          "nagasari lan klepon",
+          "serabi lan apem"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 2,
+        "pertanyaan": "kanggo acara apa jajan-an pasar kasebut digawé?",
+        "pilihan": [
+          "rapat warga",
+          "syukur-an ing omah",
+          "acara pamér-an ing sekolah",
+          "pésta ambal warsa"
+        ],
+        "kunci": 2
+      },
+      {
+        "id": 3,
+        "pertanyaan": "apa sing ditindak-aké tini nalika mbiyantu simbah ing pawon?",
+        "pilihan": [
+          "ngudhak adhon-an kanthi tlatén",
+          "nyawos-aké godhong gedhang",
+          "tumbas bahan ing pasar",
+          "ngresik-i piring lan gelas"
+        ],
+        "kunci": 0
+      },
+      {
+        "id": 4,
+        "pertanyaan": "piranti apa sing disawos-aké déning setya kanggo simbah?",
+        "pilihan": [
+          "piring lan séndhok",
+          "kayu lan kompor",
+          "wadhah plastik lan kain",
+          "piranti lan godhong gedhang sing wis diresik-i"
+        ],
+        "kunci": 3
+      },
+      {
+        "id": 5,
+        "pertanyaan": "apa sing dadi piwulang utawa filosofi saka simbah nalika olah olah?",
+        "pilihan": [
+          "kudu cepet-cepet amargi ngoyak wektu",
+          "mbutuh-aké kasabar-an ingkang tulus",
+          "kudu ngguna-kaké mesin anyar",
+          "mbutuh-aké biaya sing larang"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 6,
+        "pertanyaan": "apa guna-né nyrita-kaké filosofi jajan-an marang tini lan setya?",
+        "pilihan": [
+          "kanggo katenang-an manah lan nambah kawruh",
+          "supaya bocah bocah dadi gampang kesel",
+          "kanggo ngisi wektu sing suwé",
+          "supaya bocah bocah bisa dodol-an"
+        ],
+        "kunci": 0
+      },
+      {
+        "id": 7,
+        "pertanyaan": "kepiyé sikap-é tini lan setya marang simbah sawis-é ngrungo-kaké piwulang-é?",
+        "pilihan": [
+          "ora peduli karo piwulang-an kasebut",
+          "mlayu metu saka pawon",
+          "sangsaya ngurmat-i pituduh saka simbah",
+          "ngelapor-aké marang ibu guru"
+        ],
+        "kunci": 2
+      },
+      {
+        "id": 8,
+        "pertanyaan": "apa sing bisa dijupuk saka crita ing ndhuwur?",
+        "pilihan": [
+          "pamér marang kanca kanca",
+          "seneng dolan-an ing ngendi waé",
+          "tuku jajan-an ing toko",
+          "njaga waris-an kabudayan lan ngurmat-i wong tuwa"
+        ],
+        "kunci": 3
+      },
+      {
+        "id": 9,
+        "pertanyaan": "tembung [\\éca\\] ing crita ndhuwur nduwé-ni teges padha karo",
+        "pilihan": [
+          "pait utawa ora énak",
+          "énak utawa sedhep",
+          "panas utawa pedhes",
+          "mentah utawa durung mateng"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 10,
+        "pertanyaan": "tembung [\\mbetah-aken\\] ing crita ndhuwur nduwé-ni teges yaiku",
+        "pilihan": [
+          "mbutuh-aké",
+          "mbuwang",
+          "ninggal-aké",
+          "mènèh-aké"
+        ],
+        "kunci": 0
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "judul": "crita 13",
+    "gambar": "crita13.jpg",
+    "cerita": "saben dinten sonten, gembil, naréndra, suryani, kartika, lan krisna sami kempal wonten ing pendhapa sekolah saperlu latih-an karawit-an lan tembang dolan-an. bocah gangsal punika saweg nyiap-aken dhiri kanggé tumut lomba seni tradhisional antar sekolah. ing wiwit-an latih-an, swanten lan tabuh-an gamel-an katon déréng raras amargi saben bocah taksih ngunggul-aken pikajeng-ipun piyambak piyambak nalika nggayuh swara lan wirama.\n\nmriksa-ni kawonten-an kasebut, bapak guru lajeng maring-i pituduh babag-an kedhisiplin-an lan wigatos-ing nglaras swanten sarta wirama. bocah gangsal punika lajeng sadhar sarta sinau nglerem-aken pikajeng-ipun piyambak piyambak supados saged nyatunggal-aken tabuh-an saron, kendhang, lan swanten tembang. kanthi kasetyan lan kekompak-an tim punika, péntas karawit-an dados harmonis sanget, saéngga ngremen-aken manah lan nambah rasa tresna dhumateng kabudayan jawa.",
+    "soal": [
+      {
+        "id": 1,
+        "pertanyaan": "kanggo acara apa bocah-bocah iku padha latih-an karawit-an lan tembang dolan-an?",
+        "pilihan": [
+          "hajat pasedulur-an",
+          "lomba seni tradhisional antar sekolah",
+          "pamér-an pasar ing dhusun",
+          "pésta ambal warsa sekolah"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 2,
+        "pertanyaan": "apa sing dadi jalar-an swanten lan tabuh-an gamel-an durung raras ing wiwit-an latih-an?",
+        "pilihan": [
+          "amarga para bocah taksih ngunggul-aké karep-é dhéwe dhéwé",
+          "amarga gamel-ané wis rusak kabéh",
+          "amarga ora ana sing bisa nembang",
+          "amarga para bocah padha ngelak lan kesel"
+        ],
+        "kunci": 0
+      },
+      {
+        "id": 3,
+        "pertanyaan": "sapa sing paring pituduh lan piwulang babag-an kedisiplin-an marang para bocah?",
+        "pilihan": [
+          "bapak kepala dhusun",
+          "ibu guru basa jawa",
+          "bapak guru",
+          "para wali murid"
+        ],
+        "kunci": 2
+      },
+      {
+        "id": 4,
+        "pertanyaan": "ana ing ngendi gembil lan mitra mitra-né padha latih-an karawit-an?",
+        "pilihan": [
+          "ing balé dhusun",
+          "ing lapang-an désa",
+          "ing njero perpustakaan",
+          "ing pendhapa sekolah"
+        ],
+        "kunci": 3
+      },
+      {
+        "id": 5,
+        "pertanyaan": "apa sing kudu dilakon-i déning para bocah supados tabuh-an lan swanten tembang dados harmonis?",
+        "pilihan": [
+          "ngalah lan ninggal-aké latihan",
+          "nglerem-aké pangajeng lan njaga kekompak-an tim",
+          "nabuh gamel-an sakarep-é dhéwé",
+          "ngganti piranti gamel-an sing anyar"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 6,
+        "pertanyaan": "pikantuk ajar-an luhur apa saking kegiat-an nyiap-aké péntas karawit-an punika?",
+        "pilihan": [
+          "rasa sombong amarga pinter",
+          "kepéngin dipuji marang kanca",
+          "kedisiplin-an, kekompak-an, lan tresna kabudayan",
+          "semangat golék bathi lan bandha"
+        ],
+        "kunci": 2
+      },
+      {
+        "id": 7,
+        "pertanyaan": "piranti gamel-an apa waé sing dicrita-kaké ing tuladha tabuh-an kasebut?",
+        "pilihan": [
+          "saron lan kendhang",
+          "suling lan gitar",
+          "angklung lan biola",
+          "ketipung lan terbana"
+        ],
+        "kunci": 0
+      },
+      {
+        "id": 8,
+        "pertanyaan": "kepiyé asil-é péntas karawit-an sawisé para bocah padha sadhar lan kompak?",
+        "pilihan": [
+          "dadi sepi lan ora ana sing ndeleng",
+          "dadi wening lan ora ana swara",
+          "dadi ramé lan bubar kabéh",
+          "dadi harmonis sanget lan ngremen-aké manah"
+        ],
+        "kunci": 3
+      },
+      {
+        "id": 9,
+        "pertanyaan": "tembung [\\raras\\] ing crita ndhuwur nduwé-ni teges padha karo",
+        "pilihan": [
+          "béda utawa ora cocok",
+          "banter utawa kasar",
+          "reged utawa rusuh",
+          "selaras, harmonis lan trep"
+        ],
+        "kunci": 3
+      },
+      {
+        "id": 10,
+        "pertanyaan": "tembung [\\wirama\\] ing crita ndhuwur nduwé-ni teges yaiku",
+        "pilihan": [
+          "ukuran wirama lan swara ing tembang lan musik",
+          "rasa bungah ing njero ati",
+          "gerak-é awak-é panggamel",
+          "piranti kanggo nabuh gamel-an"
+        ],
+        "kunci": 0
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "judul": "crita 14",
+    "gambar": "crita14.jpg",
+    "cerita": "saben wanci préi, prasaja, slamet, sinaréndra, jaka, sarta kanca kanca-nipun ndhérek kegiat-an kémah sekolah ingkang kawonten-aken ing sanginggil-ing dhusun ingkang asri. nalika dumugi ing papan kasebat, para laré kanthi semangat saha gotong royong ngadeg-aken téndha sarta nata piranti sasampun-ipun nyiyap-aken palemah-an. prasaja lan jaka ketingal lincah ngadeg-aken pathok, déné slamet sarta sinaréndra nglempak-aken kayu garing kanggé ndamel geni unggun ing wanci dalu.\n\nnalika wanci dalu dumugi, swasana kémah sangsaya ramé saha gayeng amargi para laré kempal ing sakubeng-ipun geni unggun saperlu nembang sarta nyarios-aken pengalam-an. prasaja lan jaka maring-i pagelar-an alit ingkang ngremen-aken, déné slamet lan sinaréndra nyaos-aken wédang anget sarta jajan-an kanggé para kanca. kegiat-an kémah punika mboten namung maring-i rasa bingah, nanging ugi ngundhak-aken kekompak-an sarta rasa pasedulur-an ing sajeroning manah.",
+    "soal": [
+      {
+        "id": 1,
+        "pertanyaan": "kegiat-an apa sing ditindak-aké déning prasaja lan kanca kanca-né?",
+        "pilihan": [
+          "dolan-an bal bal-an",
+          "pamér-an seni",
+          "kémah sekolah",
+          "mlaku mlaku ing pasar"
+        ],
+        "kunci": 2
+      },
+      {
+        "id": 2,
+        "pertanyaan": "ana ing ngendi kegiat-an kémah sekolah kasebut diana-kaké?",
+        "pilihan": [
+          "ing ndhuwur dhusun sing asri",
+          "ing njero lapang-an bal bal-an",
+          "ing pinggir pantai",
+          "ing njero aula sekolah"
+        ],
+        "kunci": 0
+      },
+      {
+        "id": 3,
+        "pertanyaan": "apa sing ditindak-aké prasaja lan jaka nalika tekan ing papan kémah?",
+        "pilihan": [
+          "ngumpul-aké kayu garing",
+          "masang pathok lan ngedeg-aké téndha",
+          "nggawé wédang anget",
+          "nembang ing ngarep téndha"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 4,
+        "pertanyaan": "apa tugas-é slamet lan sinaréndra sadurung-é wanci dalu teka?",
+        "pilihan": [
+          "nggawé pangan-an lan wédang",
+          "nyapu papan panyabrang-an",
+          "masang lampu hias",
+          "ngumpul-aké kayu garing kanggo geni unggun"
+        ],
+        "kunci": 3
+      },
+      {
+        "id": 5,
+        "pertanyaan": "kepiyé swasana nalika wanci dalu ing sakupeng-é geni unggun?",
+        "pilihan": [
+          "ramé lan gayeng",
+          "sepi lan peteng",
+          "panas lan medé-ni",
+          "sedhih lan sepi"
+        ],
+        "kunci": 0
+      },
+      {
+        "id": 6,
+        "pertanyaan": "apa sing ditindak-aké prasaja lan jaka nalika kumpul ing geni unggun?",
+        "pilihan": [
+          "nyaos-aké wédang anget",
+          "maring-i pagelar-an alit sing ngremen-aké",
+          "turu ing njero téndha",
+          "masang pathok anyar"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 7,
+        "pertanyaan": "apa sing disaos-aké déning slamet lan sinaréndra kanggo para kanca?",
+        "pilihan": [
+          "és dhawet lan roti",
+          "nangka lan gedhang",
+          "wédang anget lan jajan-an",
+          "sega goréng lan soto"
+        ],
+        "kunci": 2
+      },
+      {
+        "id": 8,
+        "pertanyaan": "mupangat apa sing dipikoléh-i saka kegiat-an kémah kasebut?",
+        "pilihan": [
+          "rasa péngin dialem lan pamér",
+          "kekompak-an lan pasedulur-an",
+          "rasa sombong marang kanca",
+          "rasa males lan gampang kesel"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 9,
+        "pertanyaan": "tembung [\\dalu\\] ing crita ing ndhuwur nduwè-ni teges padha karo",
+        "pilihan": [
+          "ésuk",
+          "awan",
+          "soré",
+          "bengi"
+        ],
+        "kunci": 3
+      },
+      {
+        "id": 10,
+        "pertanyaan": "tembung [\\gayeng\\] ing crita ing ndhuwur nduwè-ni teges yaiku",
+        "pilihan": [
+          "sepi banget",
+          "ngremen-aké, ramé lan nyenangaké",
+          "susah banget",
+          "peteng lan medé-ni"
+        ],
+        "kunci": 1
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "judul": "crita 15",
+    "gambar": "crita15.jpg",
+    "cerita": "swasana ing pawon ageng katon ramé sanget nalika para warga sami kempal saperlu réwang nyiap-aken acara hajat-an ing dhusun. bocah bocah kayata prasaja, tini, lan setya ugi tumut mbiyantu kanthi nindak-aken pakaryan énthéng. tini lan setya tlatén ngoncek-i brambang sarta bawang, déné prasaja ngempal-aken lan nata piring wonten ing méja kanthi ati ati.\n\nsinambi nyambut damel, para bocah punika nitén-i sarta nyinaon-i tata krama lan subasita ingkang dipuntuntun déning para tiyang sepuh. para ibu lan bapak ngendikan kanthi alus lan ngajen-i, sarta tansah ténggang rasa marang sesami warga. gotong royong ing pawon ageng punika ndados-aken para bocah sangsaya ngertos-i wigatos-ing trapsila srawung lan kerukun-an ing masarakat.",
+    "soal": [
+      {
+        "id": 1,
+        "pertanyaan": "apa sing ditindak-aké para warga nalika kempal ing pawon ageng?",
+        "pilihan": [
+          "dolan-an kartu lan bal",
+          "ngobong sampah ing dharat-an",
+          "paméran klambi anyar",
+          "nindak-aké réwang nyiap-aké acara hajat-an"
+        ],
+        "kunci": 3
+      },
+      {
+        "id": 2,
+        "pertanyaan": "sapa waé bocah sing tumut mbiyantu para warga ing pawon?",
+        "pilihan": [
+          "prasaja, tini, lan setya",
+          "amrih, laras, lan gembil",
+          "gembil, naréndra, lan suryani",
+          "slamet, jaka, lan sinaréndra"
+        ],
+        "kunci": 0
+      },
+      {
+        "id": 3,
+        "pertanyaan": "apa pakaryan sing ditindak-aké déning tini lan setya?",
+        "pilihan": [
+          "masang téndha ing njaba",
+          "umbah umbah klambi",
+          "ngoncék-i brambang sarta bawang",
+          "adol pangan-an ing pasar"
+        ],
+        "kunci": 2
+      },
+      {
+        "id": 4,
+        "pertanyaan": "apa sing ditindak-aké prasaja nalika mbiyantu ing pawon?",
+        "pilihan": [
+          "umbah umbah piring reged",
+          "ngumpul-aké lan nata piring ing méja",
+          "nggawé wédang kopi",
+          "turu ing ngisor wit"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 5,
+        "pertanyaan": "apa sing disinaon-i lan dititén-i déning para bocah saka para tiyang sepuh?",
+        "pilihan": [
+          "cara dodol-an ing pasar",
+          "cara-né dolan-an égrang",
+          "jurus silat tradhisional",
+          "tata krama lan subasita"
+        ],
+        "kunci": 3
+      },
+      {
+        "id": 6,
+        "pertanyaan": "kepiyé cara ngendika-né para ibu lan bapak nalika lagi réwang?",
+        "pilihan": [
+          "kanthi alus lan ngajén-i",
+          "njerit lan muring muring",
+          "sora lan nesu nesu",
+          "meneng waé ora ngomong"
+        ],
+        "kunci": 0
+      },
+      {
+        "id": 7,
+        "pertanyaan": "mupangat utawa nilai apa sing dipikantuk saka kegiat-an réwang kasebut?",
+        "pilihan": [
+          "rasa sombong marang tangga",
+          "rasa males nyambut damel",
+          "trapsila srawung, gotong royong, lan kerukun-an",
+          "rasa pengin ngeluh marang kanca"
+        ],
+        "kunci": 2
+      },
+      {
+        "id": 8,
+        "pertanyaan": "kepiyé sikap-é warga marang sesami nalika nyambut damel ing pawon ageng?",
+        "pilihan": [
+          "milih milih kanca",
+          "tansah ténggang rasa lan ngajen-i",
+          "ora gelem mbiyantu",
+          "padha crah lan kereng-an"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 9,
+        "pertanyaan": "tembung [\\ageng\\] ing crita ndhuwur nduwé-ni teges padha karo",
+        "pilihan": [
+          "cilik utawa alit",
+          "dawa utawa nglantrah",
+          "dhuwur utawa inggil",
+          "gedhé utawa jembar"
+        ],
+        "kunci": 3
+      },
+      {
+        "id": 10,
+        "pertanyaan": "tembung [\\subasita\\] ing crita ndhuwur nduwé-ni teges yaiku",
+        "pilihan": [
+          "dolan-an tradhisional",
+          "resép olah olah",
+          "sopan santun utawa tata krama",
+          "piranti ing pawon"
+        ],
+        "kunci": 2
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "judul": "crita 16",
+    "gambar": "crita16.jpg",
+    "cerita": "wonten ing wanci dalu, kawas-an pasar malam ing dhusun katingal ramé lan ngremen-aken sanget mawi manéka warni lampu ingkang sumunar ing saben panggén-an. para sahabat inggih punika gembil, suryani, kartika, krisna, lan naréndra sami kempal sesareng-an kaliyan tini, setya, prasaja, amrih, laras, slamet, sinaréndra, sarta jaka saperlu mriksa-ni swasana pasar malam punika. sadaya bocah katon bingah sanget nalika mriksa-ni wonten ingkang sadé-an dhahar-an sarta kathah ameng ameng-an kayata bianglala lan komédi puter.\n\nprasaja lan setya ingkang kadhérék-aken déning tini lan laras nggayuh ameng ameng-an komédi puter kanthi manah ingkang sarwa bingah. sauntara punika, gembil, slamet, jaka, lan krisna mbiyantu tumbas jajan-an kanggé dipundhahar sesareng-an wonten ing pinggir lapang-an kaliyan suryani, kartika, naréndra, amrih, lan sinaréndra. kerukun-an-ipun sedaya kanca punika ndados-aken swasana pasar malam sangsaya gayeng, saéngga dados pengalam-an ingkang boten saged kalalék-aken.",
+    "soal": [
+      {
+        "id": 1,
+        "pertanyaan": "ing ngendi panggén-an sing diteka-ni para bocah nalika wanci dalu?",
+        "pilihan": [
+          "pasar kéwan",
+          "pasar malam ing dhusun",
+          "lapang-an bal bal-an",
+          "stasiun sepur"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 2,
+        "pertanyaan": "sapa waé bocah sing numpak ameng ameng-an komédi puter?",
+        "pilihan": [
+          "gembil, krisna, lan slamet",
+          "suryani, kartika, lan naréndra",
+          "prasaja lan setya kanthi didhérék-aké tini lan laras",
+          "amrih, sinaréndra, lan jaka"
+        ],
+        "kunci": 2
+      },
+      {
+        "id": 3,
+        "pertanyaan": "barang apa sing ditumbas déning gembil, slamet, jaka, lan krisna?",
+        "pilihan": [
+          "jajan-an kanggo didhahar sesareng-an",
+          "dolan-an kayu",
+          "klambi anyar",
+          "lampu hias"
+        ],
+        "kunci": 0
+      },
+      {
+        "id": 4,
+        "pertanyaan": "lampu apa sing nggawé kawas-an pasar malam katon ramé lan indah?",
+        "pilihan": [
+          "obor ing pinggir dalan",
+          "lilin cilik",
+          "senthir kuna",
+          "manéka warni lampu ingkang sumunar"
+        ],
+        "kunci": 3
+      },
+      {
+        "id": 5,
+        "pertanyaan": "apa sing ditindak-aké kanca-kanca liyan-é ing pinggir lapang-an?",
+        "pilihan": [
+          "kempal lan pasedulur-an kanthi bungah",
+          "turu ing suket-an",
+          "dolan-an bal bal-an",
+          "mlayu mulih dhisik"
+        ],
+        "kunci": 0
+      },
+      {
+        "id": 6,
+        "pertanyaan": "ameng améng-an apa waé sing katon ing pasar malam kasebut?",
+        "pilihan": [
+          "égrang lan gobak sodor",
+          "layang-an lan éngklék",
+          "bianglala lan komédi puter",
+          "catur lan dam dam-an"
+        ],
+        "kunci": 2
+      },
+      {
+        "id": 7,
+        "pertanyaan": "apa sing krasa sangsaya kuat nalika kabéh kanca kempal ing pasar malam?",
+        "pilihan": [
+          "rasa kepéngin menang piyambak",
+          "rasa sombong marang wong liya",
+          "sikap kepéngin dialem",
+          "kasedhiyan, kerukun-an, lan pasedulur-an"
+        ],
+        "kunci": 3
+      },
+      {
+        "id": 8,
+        "pertanyaan": "kapan para bocah kasebut kempal ing pasar malam?",
+        "pilihan": [
+          "ing wanci dalu",
+          "ing wanci énjang",
+          "ing wanci soré",
+          "ing wanci tengah wengi"
+        ],
+        "kunci": 0
+      },
+      {
+        "id": 9,
+        "pertanyaan": "tembung [\\kalalék-aken\\] ing pungkas-an crita nduwé-ni teges padha karo",
+        "pilihan": [
+          "gampang diéling éling",
+          "dilalék-aké utawa dilirwak-aké",
+          "dipamér-aké",
+          "diresik-i"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 10,
+        "pertanyaan": "tembung [\\gayeng\\] ing crita ndhuwur nduwé-ni teges yaiku",
+        "pilihan": [
+          "sepi banget",
+          "peteng dhedhet",
+          "susah lan sedhih",
+          "nyenang-aké lan ramé"
+        ],
+        "kunci": 3
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "judul": "crita 17",
+    "gambar": "crita17.jpg",
+    "cerita": "éyang Amrih punika satunggal-ing nimpuna basa lan aksara jawa ingkang gigih ngrembaka-kaken aksara jawa wonten ing jaman punika. piyambak-ipun nggina-kaken sarana digital kayata aplikasi ing papan pangetik-an sarta kaca wéb kanggé nggampil-aken para mudha kayata tini, setya, prasaja, gembil, sinaréndra, jaka, slamet, lan kanca kanca-nipun nyinao-ni cara-nipun maos lan nulis aksara jawa.\n\namargi cara piwulang-an-ipun ingkang nengsem-aken, kathah warga ingkang sami remen lan semangat sinau sesareng-an. para bocah lan masarakat sangsaya lincah sarta kulina nggina-kaken aksara jawa wonten ing piranti séluler lan papan nami ing saubeng-ing dhusun, saéngga aksara jawa sangsaya lestari lan kuncara.",
+    "soal": [
+      {
+        "id": 1,
+        "pertanyaan": "sapa aran-é nimpuna basa lan aksara jawa ingkang dicrita-kaké ing ndhuwur?",
+        "pilihan": [
+          "bapak lurah désa",
+          "gembil",
+          "éyang Amrih",
+          "bapak guru"
+        ],
+        "kunci": 2
+      },
+      {
+        "id": 2,
+        "pertanyaan": "sarana apa sing digunak-aké déning éyang Amrih kanggo ngrembaka-kaken aksara jawa?",
+        "pilihan": [
+          "papan tulis kayu",
+          "layang-an lan gambar",
+          "buku cilik kuna",
+          "sarana digital kayata aplikasi lan kaca wéb"
+        ],
+        "kunci": 3
+      },
+      {
+        "id": 3,
+        "pertanyaan": "sapa waé bocah-bocah sing melu nyinao-ni aksara jawa marang éyang Amrih?",
+        "pilihan": [
+          "tini, setya, prasaja, gembil, lan kanca kanca-né",
+          "para pedagang ing pasar",
+          "para buruh pabrik",
+          "para simbah ing dhusun"
+        ],
+        "kunci": 0
+      },
+      {
+        "id": 4,
+        "pertanyaan": "kepiyé cara piwulang-an-ipun éyang Amrih marang para siswa?",
+        "pilihan": [
+          "medéni lan galak",
+          "nengsem-aken saéngga nggawé warga remen lan semangat",
+          "gampang nggawé bingung",
+          "sora lan nesu-nesu"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 5,
+        "pertanyaan": "ana ing ngendi para bocah lan masarakat saiki kulina nggina-kaken aksara jawa?",
+        "pilihan": [
+          "ing njero selokan",
+          "ing alas gedhé",
+          "ing piranti séluler lan papan nami saubeng-ing dhusun",
+          "ing njero mobil waé"
+        ],
+        "kunci": 2
+      },
+      {
+        "id": 6,
+        "pertanyaan": "apa tujuan-é éyang amrih ngrembaka-kaken aksara jawa nganggo piranti digital?",
+        "pilihan": [
+          "kanggo dodol pinter",
+          "supaya aksara jawa sangsaya lestari lan kuncara",
+          "supaya dipuji ing pasar",
+          "kanggo pamér marang tangga"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 7,
+        "pertanyaan": "apa sing ditindak-aké warga sawis-é ngrasa seneng marang cara piwulang-an-ipun éyang amrih?",
+        "pilihan": [
+          "mlayu mulih",
+          "nggawa pangan-an ing kelas",
+          "dolan-an bal bal-an",
+          "sinau sesareng-an kanthi semangat"
+        ],
+        "kunci": 3
+      },
+      {
+        "id": 8,
+        "pertanyaan": "kepiyé kawasis-an-é para bocah sawis-é sinau aksara jawa saka aplikasi digital?",
+        "pilihan": [
+          "sangsaya lincah lan kulina nggina-kaken aksara jawa",
+          "dadi duka lan bingung",
+          "lali karo cara-né maos",
+          "ora bisa nulis manéh"
+        ],
+        "kunci": 0
+      },
+      {
+        "id": 9,
+        "pertanyaan": "tembung [\\nimpuna\\] ing crita ndhuwur nduwé-ni teges padha karo",
+        "pilihan": [
+          "wong bodho",
+          "wong anyar",
+          "wong sing pinter banget",
+          "wong males"
+        ],
+        "kunci": 2
+      },
+      {
+        "id": 10,
+        "pertanyaan": "tembung [\\kuncara\\] ing crita ndhuwur nduwé-ni teges yaiku",
+        "pilihan": [
+          "peteng lan sepi",
+          "misuwur, kaloka utawa kondhang",
+          "rusak banget",
+          "ilang tanpa bekas"
+        ],
+        "kunci": 1
+      }
+    ]
+  },
+    {
+    "id": 18,
+    "judul": "crita 18",
+    "gambar": "crita18.jpg",
+    "cerita": "éyang amrih ngawonten-aken ameng ameng-an digital ingkang nami-nipun pados pusaka aksara kanggé para bocah ing dhusun. gembil, tini, setya, prasaja, lan kanca kanca-nipun kanthi semangat muter-i dhusun nggina-kaken piranti séluler kanggé mindha-i kodhé ing papan pituduh ingkang katulis mawi aksara jawa.\n\nsaben bocah kedah maos lan ngalih aksara-kaken sandhi aksara jawa kasebut supados saged mangertos-i panggén-an pituduh pungkas-an. amargi lomba punika sangsaya gayeng lan nengsem-aken, para bocah boten namung nguyak juara, nanging ugi sangsaya lincah lan remen nyinao-ni aksara jawa wonten ing jaman sapunika.",
+    "soal": [
+      {
+        "id": 1,
+        "pertanyaan": "sapa aran-é nimpuna basa lan aksara jawa ingkang nggawé ameng ameng-an digital pados pusaka aksara?",
+        "pilihan": [
+          "bapak lurah",
+          "bapak guru",
+          "éyang amrih",
+          "gembil"
+        ],
+        "kunci": 2
+      },
+      {
+        "id": 2,
+        "pertanyaan": "piranti apa sing diguna-kaké para bocah kanggo mindha-i kodhé ing papan pituduh?",
+        "pilihan": [
+          "piranti séluler",
+          "kaca pembesar",
+          "pring lan kayu",
+          "lampu senthir"
+        ],
+        "kunci": 0
+      },
+      {
+        "id": 3,
+        "pertanyaan": "katulis mawi aksara apa sandhi pituduh sing ana ing papan kasebut?",
+        "pilihan": [
+          "aksara pégon",
+          "aksara latin",
+          "aksara kawi",
+          "aksara jawa"
+        ],
+        "kunci": 3
+      },
+      {
+        "id": 4,
+        "pertanyaan": "sapa waé bocah bocah sing melu ameng ameng-an pados pusaka aksara?",
+        "pilihan": [
+          "gembil, tini, setya, prasaja, lan kanca kanca-né",
+          "para pedagang lan ibu-ibu",
+          "para simbah ing dhusun",
+          "para guru"
+        ],
+        "kunci": 0
+      },
+      {
+        "id": 5,
+        "pertanyaan": "apa sing kudu dilako-ni para bocah sawis-é mindha-i kodhé kasebut?",
+        "pilihan": [
+          "mlayu mulih dhisik",
+          "maos lan ngalih aksara-kaken sandhi aksara jawa",
+          "adol piranti séluler",
+          "mbuwang papan pituduh"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 6,
+        "pertanyaan": "kepiyé swasana lomba pados pusaka aksara kasebut?",
+        "pilihan": [
+          "sepi lan gawé wedi",
+          "sangsaya gayeng lan nengsem-aken",
+          "gawé nesu para warga",
+          "peteng dhedhet"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 7,
+        "pertanyaan": "saliya-né ngoyak juara, apa mumpangat sing dipikantuk para bocah saka kegiat-an iki?",
+        "pilihan": [
+          "dadi males sinau",
+          "bisa pamér marang kanca",
+          "oléh dhuwit akéh",
+          "sangsaya lincah lan remen nyinao-ni aksara jawa"
+        ],
+        "kunci": 3
+      },
+      {
+        "id": 8,
+        "pertanyaan": "ing ngendi papan katulis-é kodhé lan sandhi aksara jawa kasebut?",
+        "pilihan": [
+          "ing papan pituduh ing saubeng-ing dhusun",
+          "ing njero selok-an",
+          "ing njero pasar kéwan",
+          "ing gendhéng omah"
+        ],
+        "kunci": 0
+      },
+      {
+        "id": 9,
+        "pertanyaan": "tembung [\\pados\\] ing crita ndhuwur nduwén-i teges padha karo",
+        "pilihan": [
+          "ngedol utawa adol",
+          "mbuwang utawa ilang",
+          "nggolék-i utawa mados-i",
+          "ngrusak utawa ngobong"
+        ],
+        "kunci": 2
+      },
+      {
+        "id": 10,
+        "pertanyaan": "tembung [\\gayeng\\] ing crita ndhuwur nduwén-i teges yaiku",
+        "pilihan": [
+          "nyenang-aké lan ramé",
+          "sepi banget",
+          "peteng dhedhet",
+          "sedhih lan susah"
+        ],
+        "kunci": 0
+      }
+    ]
+  },
+    {
+    "id": 19,
+    "judul": "crita 19",
+    "gambar": "crita19.jpg",
+    "cerita": "nalika wanci soré, murni, danu, bagus, lan ratih kempal wonten ing warung dhahar-ipun pak danang ingkang kawentar amargi sadaya menu dhahar-an katulis mawi aksara jawa. pak danang ngajak para bocah ameng ameng-an nebak aran-ing dhahar-an lan unjuk-an kayata dhawet, serabi, lan jadah lumantar piranti layar tutul ingkang saged ngedal-aken swanten nalika aksara jawa kasebut dipunpindha-i.\n\nsaben bocah ingkang saged maos menu mawi aksara jawa kanthi leres saged ngicip-i dhahar-an kasebut kanthi manah ingkang bingah. murni lan bagus katon lincah sanget amargi sampun kulina nyinao-ni aksara jawa wonten ing dalem-ipun, déné danu lan ratih sangsaya semangat sinau supados boten ketinggal-an. kegiat-an punika ndados-aken piwulang-an aksara jawa krasa nengsem-aken lan gampil dipunmangertos-i déning para mudha.",
+    "soal": [
+      {
+        "id": 1,
+        "pertanyaan": "sapa waé paraga anyar ingkang dicrita-kaké ing ndhuwur?",
+        "pilihan": [
+          "gembil, tini, lan setya",
+          "murni, danu, bagus, lan ratih",
+          "amrih, laras, lan prasaja",
+          "slamet, joko, lan sinaréndra"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 2,
+        "pertanyaan": "ana ing ngendi murni lan kanca kanca-né padha kempal nalika wanci soré?",
+        "pilihan": [
+          "ing balé dhusun",
+          "ing lapang-an désa",
+          "ing warung dhahar-ipun pak danang",
+          "ing sekolah-an"
+        ],
+        "kunci": 2
+      },
+      {
+        "id": 3,
+        "pertanyaan": "apa sing nggawé warung dhahar-ipun pak danang kasebut dadi kawentar?",
+        "pilihan": [
+          "amargi rega pangan-an-é murah banget",
+          "amargi sedaya menu dhahar-an katulis mawi aksara jawa",
+          "amargi panggon-an-é ing pinggir alas",
+          "amargi adol dolan-an kuna"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 4,
+        "pertanyaan": "conto dhahar-an lan unjuk-an apa waé sing katulis ing menu kasebut?",
+        "pilihan": [
+          "soto, bakso, lan és téh",
+          "roti, klepon, lan kopi",
+          "dhawet, serabi, lan jadah",
+          "thiwul, gethuk, lan és dhawet"
+        ],
+        "kunci": 2
+      },
+      {
+        "id": 5,
+        "pertanyaan": "piranti apa sing diguna-kaké kanggo ngedal-aken swanten nalika aksara jawa dipunpindha-i?",
+        "pilihan": [
+          "piranti layar tutul",
+          "radhiyo kuna",
+          "kothak kayu",
+          "piring-an ireng"
+        ],
+        "kunci": 0
+      },
+      {
+        "id": 6,
+        "pertanyaan": "apa sing dipikantuk déning bocah sing saged maos menu aksara jawa kanthi leres?",
+        "pilihan": [
+          "pikantuk dhuwit saking pak danang",
+          "saged ngicip-i dhahar-an kanthi manah ingkang bingah",
+          "dipunparing-i buku cathet-an anyar",
+          "dipun kéngkén umbah umbah piring"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 7,
+        "pertanyaan": "sapa bocah sing katon lincah sanget amargi sampun kulina nyinao-ni aksara jawa ing dalem-ipun?",
+        "pilihan": [
+          "danu lan ratih",
+          "murni lan bagus",
+          "pak danang lan para warga",
+          "ratih lan danu"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 8,
+        "pertanyaan": "kepiyé sikap-ipun danu lan ratih sawis-é mriksa-ni murni lan bagus sing pinter maos aksara jawa?",
+        "pilihan": [
+          "mlayu mulih lan sedhih",
+          "muring muring marang pak danang",
+          "sangsaya semangat sinau supados boten ketinggal-an",
+          "mbuwang menu dhahar-an"
+        ],
+        "kunci": 2
+      },
+      {
+        "id": 9,
+        "pertanyaan": "tembung [\\kawentar\\] ing crita ndhuwur nduwén-i teges padha karo",
+        "pilihan": [
+          "sepi utawa ora ana sing ngerti",
+          "misuwur, kondhang utawa kaloka",
+          "cilik utawa sithik",
+          "rusuh utawa reged"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 10,
+        "pertanyaan": "tembung [\\gampil\\] ing pungkas-an crita ndhuwur nduwén-i teges yaiku",
+        "pilihan": [
+          "angél utawa susah",
+          "gampang utawa pénak",
+          "larang",
+          "adoh"
+        ],
+        "kunci": 1
+      }
+    ]
+  }
+]
