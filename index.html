@@ -25,8 +25,14 @@
     <h1 id="ui-title" class="aksara-kawi"></h1>
     <div class="header-controls">
       <div class="story-selector">
-        <label for="storySelect" id="ui-label-story" class="aksara-kawi"></label>
-        <select id="storySelect"></select>
+        <label id="ui-label-story" class="aksara-kawi"></label>
+        <div class="custom-select-wrapper">
+          <div id="customSelectTrigger" class="custom-select-trigger aksara-kawi">
+            <span id="selectedStoryText"></span>
+            <span class="arrow">▼</span>
+          </div>
+          <div id="customSelectOptions" class="custom-select-options aksara-kawi"></div>
+        </div>
       </div>
     </div>
   </header>

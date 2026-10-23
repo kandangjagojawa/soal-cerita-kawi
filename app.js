@@ -46,7 +46,8 @@ function startLatinTimer() {
 function formatLatinText(text) {
   if (!text) return '';
   const cleanText = text.replace(/-/g, '');
-  return cleanText.replace(/(^\s*|[.!?]\s+|\n+\s*)([a-zà-ÿ])/g, (match, prefix, char) => {
+  return cleanText.replace(/(^\s*|[.!?]\s+|
++\s*)([a-zà-ÿ])/g, (match, prefix, char) => {
     return prefix + char.toUpperCase();
   });
 }
@@ -61,6 +62,45 @@ function convertToAksara(text) {
   }
   
   return lowerText;
+}
+
+function populateStorySelect() {
+  const triggerText = document.getElementById('selectedStoryText');
+  const optionsContainer = document.getElementById('customSelectOptions');
+  if (!optionsContainer || !kasusData || kasusData.length === 0) return;
+
+  optionsContainer.innerHTML = '';
+  
+  if (triggerText) {
+    triggerText.textContent = convertToAksara(kasusData[currentKasusIndex].judul);
+  }
+
+  kasusData.forEach((kasus, index) => {
+    const optDiv = document.createElement('div');
+    optDiv.className = 'custom-option aksara-kawi' + (index === currentKasusIndex ? ' selected' : '');
+    optDiv.textContent = convertToAksara(kasus.judul);
+    
+    optDiv.addEventListener('click', (e) => {
+      e.stopPropagation();
+      currentKasusIndex = index;
+      userAnswers = {};
+      hideScoreModal();
+      closeCustomSelect();
+      renderAll();
+    });
+    
+    optionsContainer.appendChild(optDiv);
+  });
+}
+
+function toggleCustomSelect() {
+  const wrapper = document.querySelector('.custom-select-wrapper');
+  if (wrapper) wrapper.classList.toggle('open');
+}
+
+function closeCustomSelect() {
+  const wrapper = document.querySelector('.custom-select-wrapper');
+  if (wrapper) wrapper.classList.remove('open');
 }
 
 function hideScoreModal() {
@@ -96,15 +136,20 @@ function showScoreModal(soalList) {
 }
 
 document.addEventListener('DOMContentLoaded', async () => {
-  const storySelect = document.getElementById('storySelect');
-  if (storySelect) {
-    storySelect.addEventListener('change', (e) => {
-      currentKasusIndex = parseInt(e.target.value, 10);
-      userAnswers = {};
-      hideScoreModal();
-      renderAll();
+  const trigger = document.getElementById('customSelectTrigger');
+  if (trigger) {
+    trigger.addEventListener('click', (e) => {
+      e.stopPropagation();
+      toggleCustomSelect();
     });
   }
+
+  document.addEventListener('click', (e) => {
+    const wrapper = document.querySelector('.custom-select-wrapper');
+    if (wrapper && !wrapper.contains(e.target)) {
+      closeCustomSelect();
+    }
+  });
 
   const nextBtn = document.getElementById('next-story-btn');
   if (nextBtn) {
@@ -156,22 +201,6 @@ async function fetchKasusData() {
   } catch (error) {
     console.error('Gagal memuat kasus.json:', error);
   }
-}
-
-function populateStorySelect() {
-  const storySelect = document.getElementById('storySelect');
-  if (!storySelect || !kasusData || kasusData.length === 0) return;
-
-  storySelect.innerHTML = '';
-  kasusData.forEach((kasus, index) => {
-    const opt = document.createElement('option');
-    opt.value = index;
-    opt.textContent = convertToAksara(kasus.judul);
-    if (index === currentKasusIndex) {
-      opt.selected = true;
-    }
-    storySelect.appendChild(opt);
-  });
 }
 
 function renderAll() {

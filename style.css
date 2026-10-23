@@ -55,27 +55,79 @@ body {
   flex-wrap: wrap;
 }
 
-/*#storySelect {
-  font-family: 'Gentium Plus', serif !important;
-  padding: 6px 12px;
-  font-size: 1rem;
-  border-radius: 6px;
-  border: 1px solid var(--border-color);
-  background-color: #fff;
-  color: var(--text-dark);
-  cursor: pointer;
-} */
+/* Custom Dropdown UI untuk Aksara Kawi */
+.custom-select-wrapper {
+  position: relative;
+  user-select: none;
+  min-width: 160px;
+}
 
-#storySelect,
-#storySelect option {
-  font-family: 'Noto Sans Kawi', serif !important;
-  padding: 6px 12px;
-  font-size: 1.1rem;
-  border-radius: 6px;
-  border: 1px solid var(--border-color);
-  background-color: #fff;
+.custom-select-trigger {
+  background-color: #ffffff;
   color: var(--text-dark);
+  padding: 6px 14px;
+  border: 1px solid var(--border-color);
+  border-radius: 6px;
   cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+  font-size: 1.15rem;
+}
+
+.custom-select-wrapper.open .custom-select-trigger {
+  border-color: var(--primary-color);
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.custom-select-trigger .arrow {
+  font-size: 0.7rem;
+  transition: transform 0.2s;
+  color: var(--primary-color);
+}
+
+.custom-select-wrapper.open .arrow {
+  transform: rotate(180deg);
+}
+
+.custom-select-options {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  background-color: #ffffff;
+  border: 1px solid var(--border-color);
+  border-top: none;
+  border-bottom-left-radius: 6px;
+  border-bottom-right-radius: 6px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  display: none;
+  max-height: 220px;
+  overflow-y: auto;
+  z-index: 100;
+}
+
+.custom-select-wrapper.open .custom-select-options {
+  display: block;
+}
+
+.custom-option {
+  padding: 8px 14px;
+  cursor: pointer;
+  font-size: 1.15rem;
+  color: var(--text-dark);
+  transition: background-color 0.15s;
+}
+
+.custom-option:hover {
+  background-color: #f4f1ea;
+}
+
+.custom-option.selected {
+  background-color: #e2d2c1;
+  font-weight: bold;
 }
 
 .container {
