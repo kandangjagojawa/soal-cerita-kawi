@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="jv">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-HC0LWB9G6X"></script>
+  <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-HC0LWB9G6X');
+  </script>
+  
+  <title>Crita Aksara Kawi</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Gentium+Plus:ital,wght@0,400;0,700;1,400;1,700&family=Noto+Sans+Kawi:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header class="app-header">
+    <h1 id="ui-title" class="aksara-kawi"></h1>
+    <div class="header-controls">
+      <div class="story-selector">
+        <label for="storySelect" id="ui-label-story" class="aksara-kawi"></label>
+        <select id="storySelect"></select>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="story-card">
+      <h2 id="story-title" class="aksara-kawi"></h2>
+      <article id="story-content" class="aksara-kawi story-text"></article>
+      
+      <div class="story-actions">
+        <button id="btn-toggle-latin" class="btn-latin">Latin</button>
+        <span id="latin-timer-info" class="latin-timer-info" style="display: none;">
+          Setelah <span id="latin-countdown">30</span> detik, Latin akan disembunyikan.
+        </span>
+      </div>
+
+      <article id="story-latin-content" class="story-latin-text" style="display: none;"></article>
+    </section>
+
+    <section class="questions-card">
+      <h3 id="ui-questions-title" class="aksara-kawi"></h3>
+      <div id="questions-container"></div>
+
+      <div class="navigation-area">
+        <button id="next-story-btn" class="aksara-kawi btn" style="display: none;"></button>
+      </div>
+    </section>
+  </main>
+
+  <!-- Modal Pop-up Skor -->
+  <div id="score-modal" class="modal-overlay" style="display: none;">
+    <div class="modal-card">
+      <p id="modal-score-text" class="aksara-kawi modal-text"></p>
+      <div id="modal-score-fraction" class="aksara-kawi modal-fraction"></div>
+      <button id="modal-next-btn" class="aksara-kawi modal-btn"></button>
+    </div>
+  </div>
+
+  <script src="appkawi.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
