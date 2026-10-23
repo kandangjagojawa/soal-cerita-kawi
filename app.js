@@ -46,8 +46,7 @@ function startLatinTimer() {
 function formatLatinText(text) {
   if (!text) return '';
   const cleanText = text.replace(/-/g, '');
-  return cleanText.replace(/(^\s*|[.!?]\s+|
-+\s*)([a-zà-ÿ])/g, (match, prefix, char) => {
+  return cleanText.replace(/(^\s*|[.!?]\s+|\n+\s*)([a-zà-ÿ])/g, (match, prefix, char) => {
     return prefix + char.toUpperCase();
   });
 }
