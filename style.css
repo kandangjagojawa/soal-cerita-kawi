@@ -55,10 +55,22 @@ body {
   flex-wrap: wrap;
 }
 
-#storySelect {
+/*#storySelect {
   font-family: 'Gentium Plus', serif !important;
   padding: 6px 12px;
   font-size: 1rem;
+  border-radius: 6px;
+  border: 1px solid var(--border-color);
+  background-color: #fff;
+  color: var(--text-dark);
+  cursor: pointer;
+} */
+
+#storySelect,
+#storySelect option {
+  font-family: 'Noto Sans Kawi', serif !important;
+  padding: 6px 12px;
+  font-size: 1.1rem;
   border-radius: 6px;
   border: 1px solid var(--border-color);
   background-color: #fff;
